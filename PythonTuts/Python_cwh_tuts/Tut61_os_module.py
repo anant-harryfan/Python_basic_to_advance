@@ -1,0 +1,15 @@
+import os
+# print(dir(os))
+
+# print(os.getcwd())
+# os.chdir("C://")
+# print(os.getcwd())
+# print(os.listdir())
+# print(os.listdir("C://"))
+# os.mkdir("anant")
+# os.makedirs("anant/chandak/pagal")
+# os.rename("tut27 anant.txt", "tut 27 anant.txt")
+# print(os.environ.get('Path'))
+# print(os.path.join("C://", "tut27 anant.txt"))
+# print(os.path.exists("C://"))
+# print(os.path.isfile("tut27 anant.txt"))
